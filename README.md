@@ -27,3 +27,7 @@
 <a href="#"><img alt="NodeJS" src="https://img.shields.io/badge/NodeJS-4B0082.svg?style=for-the-badge&logo=node.js&logoColor=4DB33D" /></a>
 <a href="#"><img alt="NPM" src="https://img.shields.io/badge/NPM-4B0082.svg?style=for-the-badge&logo=npm" /></a>
 <a href="#"><img alt="Yarn" src="https://img.shields.io/badge/Yarn-4B0082.svg?style=for-the-badge&logo=yarn&logoColor=40E0D0" /></a>
+
+#### :bulb: Status
+<a>![Status](https://github-readme-stats.vercel.app/api?username=JDaltonLins&show_icons=true&count_private=true&theme=nightowl&locale=pt-br)</a>
+<a>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JDaltonLins&hide=html&layout=compact&theme=nightowl&locale=pt-br)</a>
