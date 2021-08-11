@@ -1,7 +1,7 @@
 ## ⚡ Olá, meu nome é Dalton 
 
 <a href="https://github.com/jdaltonlins"><img alt="Github Badge" src="https://img.shields.io/badge/-Github-4B0082?style=for-the-badge&logo=Github&logoColor=gray&link=https://github.com/jdaltonlins" /></a>
-<a href="https://github.com/jdaltonlins"><img alt="Instagram Badge" src="https://img.shields.io/badge/-Instagram-4B0082?style=for-the-badge&logo=Instagram&logoColor=DD2A7B&link=https://instagram.com/daltinhu_" /></a>
+<a href="https://www.instagram.com/daltinhu_"><img alt="Instagram Badge" src="https://img.shields.io/badge/-Instagram-4B0082?style=for-the-badge&logo=Instagram&logoColor=DD2A7B&link=https://instagram.com/daltinhu_" /></a>
 <a href="https://app.rocketseat.com.br/me/jdaltonlins"><img alt="Rocketseat" src="https://img.shields.io/badge/Rocketseat-4B0082?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg==" /></a>
 
 📚 | Atualmente no 3° ano, cursando Técnico Integrado em Informática, pelo IFRN (Campus Pau dos Ferros). </br>
@@ -29,5 +29,5 @@
 <a href="#"><img alt="Yarn" src="https://img.shields.io/badge/Yarn-4B0082.svg?style=for-the-badge&logo=yarn&logoColor=40E0D0" /></a>
 
 #### :bulb: Estatísticas
-<a>![Status](https://github-readme-stats.vercel.app/api?username=JDaltonLins&show_icons=true&count_private=true&theme=nightowl&locale=pt-br)</a>
+<a>![Status](https://github-readme-stats.vercel.app/api?username=JDaltonLins&show_icons=true&count_private=true&theme=nightowl&locale=pt-br&hide=prs,issues)</a>
 <a>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JDaltonLins&hide=html&layout=compact&theme=nightowl&locale=pt-br)</a>
