@@ -4,9 +4,9 @@
 <a href="https://www.instagram.com/daltinhu_"><img alt="Instagram Badge" src="https://img.shields.io/badge/-Instagram-4B0082?style=for-the-badge&logo=Instagram&logoColor=DD2A7B&link=https://instagram.com/daltinhu_" /></a>
 <a href="https://app.rocketseat.com.br/me/jdaltonlins"><img alt="Rocketseat" src="https://img.shields.io/badge/Rocketseat-4B0082?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg==" /></a>
 
-📚 | Atualmente no 3° ano, cursando Técnico Integrado em Informática, pelo IFRN (Campus Pau dos Ferros). </br>
-💖 | Apaixonado por programação desde os 10 anos, primeira vez com Java no Minecraft. </br>
-🧠 | Sempre em busca de aprender novas coisas e tentar de modos diferentes para expandir minhas fronteiras.
+📚 | Formado em Técnico em Informática, pelo IFRN (Campus Pau dos Ferros). </br>
+💖 | Apaixonado por programação desde cedo. </br>
+🧠 | Sempre em busca de aprender mais e tentar algo diferente.
 
 #### :speech_balloon: Linguagens
 <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-4B0082.svg?style=for-the-badge&logo=java&logoColor=white" /></a>
@@ -29,5 +29,8 @@
 <a href="#"><img alt="Yarn" src="https://img.shields.io/badge/Yarn-4B0082.svg?style=for-the-badge&logo=yarn&logoColor=40E0D0" /></a>
 
 #### :bulb: Estatísticas
-<a>![Status](https://github-readme-stats.vercel.app/api?username=JDaltonLins&show_icons=true&count_private=true&theme=nightowl&locale=pt-br&hide=prs,issues)</a>
-<a>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JDaltonLins&hide=html&layout=compact&theme=nightowl&locale=pt-br)</a>
+
+<div align="center">
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JDaltonLins&hide_border=true&show_icons=true&count_private=true&locale=pt-br&title_color=3f51b5&text_color=3f51b5&bg_color=0d1117">
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JDaltonLins&hide=html&layout=compact&locale=pt-br&hide_border=true&title_color=3f51b5&text_color=3f51b5&bg_color=0d1117">
+</div>
